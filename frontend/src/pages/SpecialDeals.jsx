@@ -60,8 +60,8 @@ const SpecialDeals = () => {
             </p>
             </div>
             <div className="flex flex-col   space-y-4 mt-16 px-6">
-             <div className=" border border-gray-400 py-6 rounded-3xl  flex flex-col md:flex-row  md:px-8 w-auto space-x-3">
-                <div className="md:px-8 md:py-8 py-4  px-4 rounded-3xl bg-[#FF5722] flex justify-center items-center ">
+             <div className=" border border-gray-400 py-6 rounded-3xl items-center justify-center  flex flex-col md:flex-row  md:px-8 w-auto space-x-3">
+                <div className="md:px-8 md:py-8 w-20 h-20 rounded-3xl bg-[#FF5722] flex justify-center items-center ">
                 <FaLocationDot className="text-white w-8 h-8"/>
                 </div>
                 <div className="w-full">
@@ -70,8 +70,8 @@ const SpecialDeals = () => {
                 </div>
              </div>
              
-             <div className=" border border-gray-400 py-6 rounded-3xl  flex flex-col md:flex-row  md:px-8 w-auto space-x-3">
-                <div className="md:px-8 md:py-8 py-4  px-4 rounded-3xl bg-[#f0da30] flex justify-center items-center ">
+             <div className=" border border-gray-400 py-6 rounded-3xl  items-center justify-center flex flex-col md:flex-row  md:px-8 w-auto space-x-3">
+                <div className="md:px-8 md:py-8  w-20 h-20 rounded-3xl bg-[#f0da30] flex justify-center items-center ">
                 <FaCalendarDays className="text-white  w-8 h-8" />
                 </div>
                 <div className="w-full">
@@ -79,8 +79,8 @@ const SpecialDeals = () => {
                 <p className="text-gray-500">Lorem ipsum dolor sit amet consectetur</p>
                 </div>
              </div>
-             <div className=" border border-gray-400 py-6 rounded-3xl  flex flex-col md:flex-row  md:px-8 w-auto space-x-3">
-                <div className="md:px-8 md:py-8 py-4  px-4 rounded-3xl bg-[#dd2db7] flex justify-center items-center ">
+             <div className=" border border-gray-400 py-6 rounded-3xl items-center justify-center  flex flex-col md:flex-row  md:px-8 w-auto space-x-3">
+                <div className="md:px-8 md:py-8  w-20 h-20 rounded-3xl bg-[#dd2db7] flex justify-center items-center ">
                 <RiCoupon3Fill className="text-white  w-8 h-8"/>
                 </div>
                 <div className="w-full">
