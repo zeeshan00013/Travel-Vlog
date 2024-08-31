@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  /* Mobile styles (applies to all screen sizes by default) */
+.custom-mobile {
+    background-color: rgba(255, 0, 0, 0.10); /* Example custom style */
+    font-size: 1rem; /* Example custom style */
+  }
